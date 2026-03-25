@@ -1,5 +1,8 @@
 # feria019
 # Portfólio
+Olá! Sou Pedro Feria, 16 anos, estudante de Técnico em Informática 🖥️ no SENAC-SP, com foco em C# 💻 e hardware geral 💾.
+🎓 Ensino médio: 2º ano na Escola Estadual Professor Heitor Penteado, das 7h às 12h20 ⏱️
+📌 Americana (SP) | 🚀 Busco colocar meus conhecimentos em prática e crescer na área de TI ⚡
 <!--
 **feria019/feria019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
